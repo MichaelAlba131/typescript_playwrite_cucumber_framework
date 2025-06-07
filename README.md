@@ -1,4 +1,4 @@
-<h1 align="center">🔐 Testes E2E com Playwright + CucumberJS</h1>
+<h1 align="center">🔐 Testes E2E com Playwright TypeScript + Cucumber</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>Framework robusto de automação E2E para aplicações web utilizando TypeScript</b><br/>
-  <i>TypeScript • Playwright • CucumberJS | Gherkin</i>
+  <i>TypeScript • Playwright • Cucumber | Gherkin</i>
 </p>
 
 
