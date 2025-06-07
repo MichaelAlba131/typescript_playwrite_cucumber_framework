@@ -23,5 +23,5 @@ jobs:
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
 
-      - name: Run CucumberJS Tests
+      - name: Run CucumberTS Tests
         run: npm run test:parallel4
